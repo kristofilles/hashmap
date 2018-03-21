@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e6c9550a-d47c-4922-b07c-ba1fa78237e0" name="Default" comment="" />
+    <list default="true" id="e6c9550a-d47c-4922-b07c-ba1fa78237e0" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/java/src/com/codecool/hashmap/HashMap.java" afterPath="$PROJECT_DIR$/java/src/com/codecool/hashmap/HashMap.java" />
+      <change beforePath="$PROJECT_DIR$/java/test/com/codecool/hashmap/HashMapTest.java" afterPath="$PROJECT_DIR$/java/test/com/codecool/hashmap/HashMapTest.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,29 +16,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HashMapTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HashMapTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/java/test/com/codecool/hashmap/HashMapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="18" column="51" lean-forward="false" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+            <state relative-caret-position="390">
+              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/java/src/com/codecool/hashmap/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="236">
+              <caret line="48" column="10" lean-forward="true" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#273#274#0" expanded="true" />
-                <element signature="e#824#825#0" expanded="true" />
-                <element signature="e#874#875#0" expanded="true" />
-                <element signature="e#908#909#0" expanded="true" />
-                <element signature="e#941#942#0" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
+                <element signature="e#1478#1479#0" expanded="true" />
+                <element signature="e#1528#1529#0" expanded="true" />
+                <element signature="e#1562#1563#0" expanded="true" />
+                <element signature="e#1595#1596#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -68,8 +70,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/java/test/com/codecool/hashmap/HashMapTest.java" />
         <option value="$PROJECT_DIR$/java/src/com/codecool/hashmap/KeyValue.java" />
+        <option value="$PROJECT_DIR$/java/test/com/codecool/hashmap/HashMapTest.java" />
         <option value="$PROJECT_DIR$/java/src/com/codecool/hashmap/HashMap.java" />
       </list>
     </option>
@@ -170,7 +172,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HashMapTest.addThrowErrorTest">
+  <component name="RunManager" selected="JUnit.HashMapTest.clearAllTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -192,7 +194,7 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="HashMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HashMapTest.clearAllTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.codecool.hashmap.*" />
@@ -204,32 +206,7 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.codecool.hashmap" />
       <option name="MAIN_CLASS_NAME" value="com.codecool.hashmap.HashMapTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="HashMapTest.addThrowErrorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.codecool.hashmap.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="hashmap" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.codecool.hashmap" />
-      <option name="MAIN_CLASS_NAME" value="com.codecool.hashmap.HashMapTest" />
-      <option name="METHOD_NAME" value="addThrowErrorTest" />
+      <option name="METHOD_NAME" value="clearAllTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -242,7 +219,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="HashMapTest.getHashTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="HashMapTest.getValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.codecool.hashmap.*" />
@@ -254,7 +231,82 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.codecool.hashmap" />
       <option name="MAIN_CLASS_NAME" value="com.codecool.hashmap.HashMapTest" />
-      <option name="METHOD_NAME" value="getHashTest" />
+      <option name="METHOD_NAME" value="getValueTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="HashMapTest.getValueThrowError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="hashmap" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.codecool.hashmap" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.hashmap.HashMapTest" />
+      <option name="METHOD_NAME" value="getValueThrowError" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="HashMapTest.removeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="hashmap" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.codecool.hashmap" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.hashmap.HashMapTest" />
+      <option name="METHOD_NAME" value="removeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="HashMapTest.removeThrowError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.codecool.hashmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="hashmap" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.codecool.hashmap" />
+      <option name="MAIN_CLASS_NAME" value="com.codecool.hashmap.HashMapTest" />
+      <option name="METHOD_NAME" value="removeThrowError" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -327,16 +379,20 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.HashMapTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.HashMapTest.getHashTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.HashMapTest.addThrowErrorTest" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.HashMapTest.getValueThrowError" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.HashMapTest.getValueTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.HashMapTest.removeThrowError" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.HashMapTest.removeTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.HashMapTest.clearAllTest" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.HashMapTest.addThrowErrorTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.HashMapTest.getHashTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.HashMapTest" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.HashMapTest.clearAllTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.HashMapTest.removeTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.HashMapTest.removeThrowError" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.HashMapTest.getValueTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.HashMapTest.getValueThrowError" />
       </list>
     </recent_temporary>
   </component>
@@ -354,48 +410,47 @@
       <option name="presentableId" value="Default" />
       <updated>1521559979699</updated>
       <workItem from="1521559981483" duration="3299000" />
-      <workItem from="1521634548952" duration="1914000" />
+      <workItem from="1521634548952" duration="5940000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HashMapTest_addThrowErrorTest - 2018.03.21 at 13h 24m 46s.xml">
-      <configuration name="HashMapTest.addThrowErrorTest" configurationId="JUnit" />
+    <history-entry file="HashMapTest_clearAllTest - 2018.03.21 at 14h 27m 58s.xml">
+      <configuration name="HashMapTest.clearAllTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HashMapTest_addThrowErrorTest - 2018.03.21 at 13h 28m 22s.xml">
-      <configuration name="HashMapTest.addThrowErrorTest" configurationId="JUnit" />
+    <history-entry file="HashMapTest_clearAllTest - 2018.03.21 at 14h 28m 24s.xml">
+      <configuration name="HashMapTest.clearAllTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HashMapTest_addThrowErrorTest - 2018.03.21 at 13h 28m 46s.xml">
-      <configuration name="HashMapTest.addThrowErrorTest" configurationId="JUnit" />
+    <history-entry file="HashMapTest_clearAllTest - 2018.03.21 at 14h 29m 37s.xml">
+      <configuration name="HashMapTest.clearAllTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HashMapTest_addThrowErrorTest - 2018.03.21 at 13h 32m 29s.xml">
-      <configuration name="HashMapTest.addThrowErrorTest" configurationId="JUnit" />
+    <history-entry file="HashMapTest_clearAllTest - 2018.03.21 at 14h 30m 08s.xml">
+      <configuration name="HashMapTest.clearAllTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HashMapTest_addThrowErrorTest - 2018.03.21 at 13h 33m 18s.xml">
-      <configuration name="HashMapTest.addThrowErrorTest" configurationId="JUnit" />
+    <history-entry file="HashMapTest_clearAllTest - 2018.03.21 at 14h 30m 33s.xml">
+      <configuration name="HashMapTest.clearAllTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HashMapTest_addThrowErrorTest - 2018.03.21 at 13h 41m 28s.xml">
-      <configuration name="HashMapTest.addThrowErrorTest" configurationId="JUnit" />
+    <history-entry file="HashMapTest_clearAllTest - 2018.03.21 at 14h 31m 27s.xml">
+      <configuration name="HashMapTest.clearAllTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HashMapTest_addThrowErrorTest - 2018.03.21 at 13h 43m 16s.xml">
-      <configuration name="HashMapTest.addThrowErrorTest" configurationId="JUnit" />
+    <history-entry file="HashMapTest_clearAllTest - 2018.03.21 at 14h 32m 02s.xml">
+      <configuration name="HashMapTest.clearAllTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HashMapTest_addThrowErrorTest - 2018.03.21 at 13h 43m 36s.xml">
-      <configuration name="HashMapTest.addThrowErrorTest" configurationId="JUnit" />
+    <history-entry file="HashMapTest_clearAllTest - 2018.03.21 at 14h 32m 16s.xml">
+      <configuration name="HashMapTest.clearAllTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HashMapTest_addThrowErrorTest - 2018.03.21 at 13h 45m 01s.xml">
-      <configuration name="HashMapTest.addThrowErrorTest" configurationId="JUnit" />
+    <history-entry file="HashMapTest_clearAllTest - 2018.03.21 at 14h 33m 27s.xml">
+      <configuration name="HashMapTest.clearAllTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HashMapTest_addThrowErrorTest - 2018.03.21 at 13h 47m 14s.xml">
-      <configuration name="HashMapTest.addThrowErrorTest" configurationId="JUnit" />
+    <history-entry file="HashMapTest_clearAllTest - 2018.03.21 at 14h 34m 22s.xml">
+      <configuration name="HashMapTest.clearAllTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5213000" />
+    <option name="totallyTimeSpent" value="9239000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="186" y="265" width="1857" height="1092" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -450,13 +505,12 @@
         <state relative-caret-position="330">
           <caret line="15" column="29" lean-forward="false" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#824#825#0" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
-            <element signature="e#908#909#0" expanded="true" />
-            <element signature="e#941#942#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#1478#1479#0" expanded="true" />
+            <element signature="e#1528#1529#0" expanded="true" />
+            <element signature="e#1562#1563#0" expanded="true" />
+            <element signature="e#1595#1596#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -493,27 +547,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/src/com/codecool/hashmap/HashMap.java">
+    <entry file="file://$PROJECT_DIR$/java/test/com/codecool/hashmap/HashMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#273#274#0" expanded="true" />
-            <element signature="e#824#825#0" expanded="true" />
-            <element signature="e#874#875#0" expanded="true" />
-            <element signature="e#908#909#0" expanded="true" />
-            <element signature="e#941#942#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="390">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/test/com/codecool/hashmap/HashMapTest.java">
+    <entry file="file://$PROJECT_DIR$/java/src/com/codecool/hashmap/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="18" column="51" lean-forward="false" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
-          <folding />
+        <state relative-caret-position="236">
+          <caret line="48" column="10" lean-forward="true" selection-start-line="48" selection-start-column="10" selection-end-line="48" selection-end-column="10" />
+          <folding>
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+            <element signature="e#1478#1479#0" expanded="true" />
+            <element signature="e#1528#1529#0" expanded="true" />
+            <element signature="e#1562#1563#0" expanded="true" />
+            <element signature="e#1595#1596#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
